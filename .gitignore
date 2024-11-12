@@ -1,0 +1,6 @@
+/cmake-build-*/
+/.idea
+/support/*.c
+/support/*.cpp
+/support/*.h
+/support/pre_make.cmd
