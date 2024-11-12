@@ -1,7 +1,6 @@
 # fluentudf_cmake
 项目源自知乎大佬开源的 [胶然今天打什么](https://zhuanlan.zhihu.com/p/492619039), 适用于Windows平台下调试UDF。
-但是github上原始项目已经没有了。
-
+但是github上原始项目不太容易搜到。本项目复制自github用户Izumiko的udf项目
 
 按如下目录结构摆放文件，并编辑CMakeLists.txt头部的设置信息。
 
